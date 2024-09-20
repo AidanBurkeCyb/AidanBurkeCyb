@@ -2,10 +2,10 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Network Security Assessment Using Nmap: Vulnerability Scanning and Analysis</b>
-  - [NMAP Homelab][https://github.com/AidanBurkeCyb/Network-Vulnerability-Assessment-with-Nmap]
+  - [NMAP Homelab]: [https://github.com/AidanBurkeCyb/Network-Vulnerability-Assessment-with-Nmap]
   
 <h2>🎓 Certifications:</h2>
-  - [Google Cybersecurity Certificate](https://coursera.org/share/78b4b728a9f906a064f4305215641c75)
+  - [Google Cybersecurity Certificate]: (https://coursera.org/share/78b4b728a9f906a064f4305215641c75)
 
 <h2> 🤳 Connect with me:</h2>
 
