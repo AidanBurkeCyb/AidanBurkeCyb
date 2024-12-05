@@ -4,6 +4,9 @@
 - <b>Network Security Assessment Using Nmap: Vulnerability Scanning and Analysis</b>
   - [NMAP Homelab](https://github.com/AidanBurkeCyb/Network-Vulnerability-Assessment-with-Nmap)
 
+- <b>Elastic-Agent-Project-for-SOC-Analyst-Competencies</b>
+  - [SIEM Tool Homelab SetUp]([https://github.com/AidanBurkeCyb/Network-Vulnerability-Assessment-with-Nmap](https://github.com/AidanBurkeCyb/Elastic-Agent-Project-for-SOC-Analyst-Competencies))
+
 <h2>🎓 Certifications:</h2>
 
 - [Google Cybersecurity Certificate](https://coursera.org/share/78b4b728a9f906a064f4305215641c75)
