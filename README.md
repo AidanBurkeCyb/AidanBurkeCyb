@@ -5,7 +5,7 @@
   - [NMAP Homelab](https://github.com/AidanBurkeCyb/Network-Vulnerability-Assessment-with-Nmap)
 
 - <b>Elastic-Agent-Project-for-SOC-Analyst-Competencies</b>
-  - [SIEM Tool Homelab SetUp](https://github.com/AidanBurkeCyb/Elastic-Agent-Project-for-SOC-Analyst-Competencies))
+  - [SIEM Tool Homelab SetUp](https://github.com/AidanBurkeCyb/Elastic-Agent-Project-for-SOC-Analyst-Competencies)
 
 <h2>🎓 Certifications:</h2>
 
