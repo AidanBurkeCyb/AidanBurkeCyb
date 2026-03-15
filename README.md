@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aidan! , <a href="https://www.linkedin.com/in/aidan-b-478115266//">Cybersecurity Professional</a>
+<h1>Hi, I'm Aidan! , <a href="https://www.linkedin.com/in/aidan-b-478115266//">Networking/IT/Cybersecurity Professional</a>
 
 <h2>💻 Networking Projects:</h2>
 
